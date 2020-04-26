@@ -1,0 +1,19 @@
+{
+    "name": "rozeo/ac-nh-turnip-prices",
+    "type": "library",
+    "license": "Apache Licence-2.0",
+    "authors": [
+        {
+            "name": "rozeo",
+            "email": "st.prog0908@gmail.com"
+        }
+    ],
+    "require": {
+    
+    },
+    "autoload": {
+        "psr-4": {
+            "Rozeo\\ACNH\\": "src/"
+        }
+    }
+}
